@@ -1,24 +1,19 @@
 # Vivado generated files
-.cache/
-.hw/
-.ip_user_files/
-.runs/
-.sim/
-.gen/
-.Xil/
+**/.cache/
+**/.hw/
+**/.ip_user_files/
+**/.runs/
+**/.sim/
+**/.gen/
+**/.Xil/
 
 # logs
 *.jou
 *.log
-*.str
 
 # reports
 *.rpt
 *.pb
-
-# simulation
-*.wdb
-*.wdf
 
 # checkpoints
 *.dcp
