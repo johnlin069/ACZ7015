@@ -10,6 +10,18 @@
 # logs
 *.jou
 *.log
+*.str
+
+# reports
+*.rpt
+*.pb
+
+# simulation
+*.wdb
+*.wdf
+
+# checkpoints
+*.dcp
 
 # temp
 *.tmp
